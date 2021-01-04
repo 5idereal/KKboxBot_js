@@ -1,0 +1,545 @@
+{
+  "helpresponse": {
+    "type": "flex",
+    "altText": "new",
+    "contents": {
+      "type": "carousel",
+      "contents": [
+        {
+          "type": "bubble",
+          "size": "micro",
+          "hero": {
+            "type": "image",
+            "url": "https://c.pxhere.com/photos/9c/4d/audience_band_cheerful_cheering_club_concert_crowd_dance-925432.jpg!d",
+            "size": "full",
+            "aspectMode": "cover",
+            "aspectRatio": "330:213"
+          },
+          "body": {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "查詢熱門歌曲",
+                "weight": "bold",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "baseline",
+                    "spacing": "sm",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "你可以說：",
+                        "wrap": true,
+                        "color": "#8c8c8c",
+                        "size": "xs",
+                        "flex": 5
+                      }
+                    ]
+                  },
+                  {
+                    "type": "separator",
+                    "margin": "5px",
+                    "color": "#FFFFFF"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\"今天的華語人氣排行\"",
+                    "size": "13px"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\"歐美熱門排行\"",
+                    "size": "13px"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\"韓語人氣榜\"",
+                    "size": "13px"
+                  }
+                ]
+              }
+            ],
+            "spacing": "sm",
+            "paddingAll": "13px"
+          }
+        },
+        {
+          "type": "bubble",
+          "size": "micro",
+          "hero": {
+            "type": "image",
+            "url": "https://c.pxhere.com/photos/1a/95/silence_magnifying_glass_loupe_search_enlarge_read_newspaper_news-952520.jpg!d",
+            "size": "full",
+            "aspectMode": "cover",
+            "aspectRatio": "330:213"
+          },
+          "body": {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "搜尋",
+                "weight": "bold",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "baseline",
+                    "spacing": "sm",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "你可以說：",
+                        "wrap": true,
+                        "color": "#8c8c8c",
+                        "size": "xs",
+                        "flex": 5
+                      }
+                    ]
+                  },
+                  {
+                    "type": "separator",
+                    "margin": "5px",
+                    "color": "#FFFFFF"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\"搜尋盧廣仲\"",
+                    "size": "13px"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\"搜尋BLACKPINK\"",
+                    "size": "13px"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\"搜尋盗作\"",
+                    "size": "13px"
+                  }
+                ]
+              }
+            ],
+            "spacing": "sm",
+            "paddingAll": "13px"
+          }
+        },
+        {
+          "type": "bubble",
+          "size": "micro",
+          "hero": {
+            "type": "image",
+            "url": "https://freestocks.org/fs/wp-content/uploads/2017/02/cd_albums-1000x667.jpg",
+            "size": "full",
+            "aspectMode": "cover",
+            "aspectRatio": "330:213"
+          },
+          "body": {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "查詢最新歌曲",
+                "weight": "bold",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "baseline",
+                    "spacing": "sm",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "你可以說：",
+                        "wrap": true,
+                        "color": "#8c8c8c",
+                        "size": "xs",
+                        "flex": 5
+                      }
+                    ]
+                  },
+                  {
+                    "type": "separator",
+                    "margin": "5px",
+                    "color": "#FFFFFF"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\"日文新歌\"",
+                    "size": "13px"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\"華語新歌排行\"",
+                    "size": "13px"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\"今天的歐美新歌\"",
+                    "size": "13px"
+                  }
+                ]
+              }
+            ],
+            "spacing": "sm",
+            "paddingAll": "13px"
+          }
+        },
+        {
+          "type": "bubble",
+          "size": "micro",
+          "hero": {
+            "type": "image",
+            "url": "https://c.pxhere.com/photos/47/2a/daytime_drum_sticks_drummer_drums_instrument_man_musician_outdoors-1498107.jpg!d",
+            "size": "full",
+            "aspectMode": "cover",
+            "aspectRatio": "330:213"
+          },
+          "body": {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "曲風分類",
+                "weight": "bold",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "baseline",
+                    "spacing": "sm",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "你可以說：",
+                        "wrap": true,
+                        "color": "#8c8c8c",
+                        "size": "xs",
+                        "flex": 5
+                      }
+                    ]
+                  },
+                  {
+                    "type": "separator",
+                    "margin": "5px",
+                    "color": "#FFFFFF"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\"曲風\"",
+                    "size": "13px"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\"曲風分類\"",
+                    "size": "13px"
+                  }
+                ]
+              }
+            ],
+            "spacing": "sm",
+            "paddingAll": "13px"
+          }
+        },
+        {
+          "type": "bubble",
+          "size": "micro",
+          "hero": {
+            "type": "image",
+            "url": "https://cdn.pixabay.com/photo/2017/11/24/10/43/radio-2974649_1280.jpg",
+            "size": "full",
+            "aspectMode": "cover",
+            "aspectRatio": "330:213"
+          },
+          "body": {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "聆聽情境電台",
+                "weight": "bold",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "baseline",
+                    "spacing": "sm",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "你可以說：",
+                        "wrap": true,
+                        "color": "#8c8c8c",
+                        "size": "xs",
+                        "flex": 5
+                      }
+                    ]
+                  },
+                  {
+                    "type": "separator",
+                    "margin": "5px",
+                    "color": "#FFFFFF"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\"情境電台\"",
+                    "size": "13px"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\"情境歌單\"",
+                    "size": "13px"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\"我想聽情境電台\"",
+                    "size": "13px"
+                  }
+                ]
+              }
+            ],
+            "spacing": "sm",
+            "paddingAll": "13px"
+          }
+        },
+        {
+          "type": "bubble",
+          "size": "micro",
+          "hero": {
+            "type": "image",
+            "url": "https://c.pxhere.com/photos/f7/31/albums_browsing_hands_LP_music_person_records_searching-983277.jpg!d",
+            "size": "full",
+            "aspectMode": "cover",
+            "aspectRatio": "330:213"
+          },
+          "body": {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "查看精選歌單",
+                "weight": "bold",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "baseline",
+                    "spacing": "sm",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "你可以說：",
+                        "wrap": true,
+                        "color": "#8c8c8c",
+                        "size": "xs",
+                        "flex": 5
+                      }
+                    ]
+                  },
+                  {
+                    "type": "separator",
+                    "margin": "5px",
+                    "color": "#FFFFFF"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\"我想看精選歌單\"",
+                    "size": "13px"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\"精選歌單\"",
+                    "size": "13px"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\"我想聽精選歌單\"",
+                    "size": "13px"
+                  }
+                ]
+              }
+            ],
+            "spacing": "sm",
+            "paddingAll": "13px"
+          }
+        },
+        {
+          "type": "bubble",
+          "size": "micro",
+          "hero": {
+            "type": "image",
+            "url": "https://c.pxhere.com/photos/b0/c1/alcohol_bar_chat_chatting_contact_drink_people_pub-936216.jpg!d",
+            "size": "full",
+            "aspectMode": "cover",
+            "aspectRatio": "330:213"
+          },
+          "body": {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "查看話題歌單",
+                "weight": "bold",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "baseline",
+                    "spacing": "sm",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "你可以說：",
+                        "wrap": true,
+                        "color": "#8c8c8c",
+                        "size": "xs",
+                        "flex": 5
+                      }
+                    ]
+                  },
+                  {
+                    "type": "separator",
+                    "margin": "5px",
+                    "color": "#FFFFFF"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\"我想看話題歌單\"",
+                    "size": "13px"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\"話題歌單\"",
+                    "size": "13px"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\"我想聽熱門歌單\"",
+                    "size": "13px"
+                  }
+                ]
+              }
+            ],
+            "spacing": "sm",
+            "paddingAll": "13px"
+          }
+        },
+        {
+          "type": "bubble",
+          "size": "micro",
+          "hero": {
+            "type": "image",
+            "url": "https://scdn.line-apps.com/n/channel_devcenter/img/flexsnapshot/clip/clip10.jpg",
+            "size": "full",
+            "aspectMode": "cover",
+            "aspectRatio": "330:213"
+          },
+          "body": {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "歌單分類",
+                "weight": "bold",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "baseline",
+                    "spacing": "sm",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "你可以說：",
+                        "wrap": true,
+                        "color": "#8c8c8c",
+                        "size": "xs",
+                        "flex": 5
+                      }
+                    ]
+                  },
+                  {
+                    "type": "separator",
+                    "margin": "5px",
+                    "color": "#FFFFFF"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\"歌單分類\"",
+                    "size": "13px"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\"我想看歌單分類\"",
+                    "size": "13px"
+                  }
+                ]
+              }
+            ],
+            "spacing": "sm",
+            "paddingAll": "13px"
+          }
+        }
+      ]
+    }
+  },
+  "test": {
+    "type": "text",
+    "text": "text"
+  },
+  "fallbackmsg": {
+    "type": "text",
+    "text": "不好意思，能請您換個說法嗎？"
+  }
+}
