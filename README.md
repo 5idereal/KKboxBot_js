@@ -25,6 +25,10 @@ A Line bot built with Node.js+DialogFlow+KKbox API.
 
 ### 最新歌曲
 
+### 熱門歌單
+
+### 曲風分類
+
 ### 情境電台
 
 > 我想聽情境電台
