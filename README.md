@@ -15,12 +15,17 @@ A Line bot built with Node.js+DialogFlow+KKbox API.
 
 ### 自行架設
 
-. clone repo
-. 到config.json中貼上自己的token
-. 上傳到Google App engine
-. [下載DialogFlow 備份檔](https://drive.google.com/file/d/1yhbE2of7iacueseekWKl0-FqX6Lv2kTR/view?usp=sharing)
-. 建立Agent
-. 到設定 > Export and Import > Import from ZIP
+1. clone repo
+
+2. 到config.json中貼上自己的token
+
+3. 上傳到Google App engine
+
+4. [下載DialogFlow 備份檔](https://drive.google.com/file/d/1yhbE2of7iacueseekWKl0-FqX6Lv2kTR/view?usp=sharing)
+
+5. 建立Agent
+
+6. 到設定 > Export and Import > Import from ZIP
 
 ## 功能
 
